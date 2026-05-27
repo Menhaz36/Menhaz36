@@ -1,7 +1,6 @@
 <h3 align="left">
-I'm a final CSE student who loves turning data into working products. Whether it's training and fine-tuning MLmodels, building end-to-end data pipelines, or deploying AI features into production, I thrive at the intersection ofresearch and engineering. I'm looking for a summer internship where I can solve real problems with data, pick up
-new skills fast, and ship AI-powered solutions I'm proud of.
-
+I'm a final year CSE student who enjoys solving problems and develop working products. From training and fine-tuning MLmodels to building end-to-end data pipelines with deployment, I thrive in the domains of research and engineering. I'm looking for roles where I can solve real problems with data, pick up
+new skills fast, and ship AI-powered solutions to refine myself as an engineer.
 </h3>
 
 
