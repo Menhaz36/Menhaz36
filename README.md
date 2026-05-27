@@ -49,10 +49,11 @@ new skills fast, and ship AI-powered solutions I'm proud of.
 
 ###
 
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div> 
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Menhaz36&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+  <img src="https://raw.githubusercontent.com/Menhaz36/Menhaz36/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div> -->
 
 ###
 
